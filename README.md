@@ -12,7 +12,7 @@ I'm a MERN Stack developer passionate about building web applications and solvin
 
 ## 🌱 Currently Learning
 
-I am currently learning GraphQL and how to integrate it with a MERN Stack.
+I am currently learning AI.
 
 ## 💬 Let's Connect
 
